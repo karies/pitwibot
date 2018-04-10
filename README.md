@@ -1,2 +1,2 @@
 # pitwibot
-Tweets newsworthy event
+Tweets newsworthy events
